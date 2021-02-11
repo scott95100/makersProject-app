@@ -1,0 +1,30 @@
+{
+  "name": "makersproject-app",
+  "version": "1.0.0",
+  "description": "social media platform for wood craftsman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott95100/makersProject-app.git"
+  },
+  "author": "Scott Sherwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott95100/makersProject-app/issues"
+  },
+  "homepage": "https://github.com/scott95100/makersProject-app#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cloudinary": "^1.24.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "method-override": "^3.0.0",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
