@@ -1,0 +1,26 @@
+
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: chartreuse;
+}
+
+nav ul li {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  margin-right: .3em;
+  background-color: rgb(165, 217, 219);
+}
+  
+.home {
+  color: blue;
+  background-color: brown;
+  display: flex
+}
+
+body {
+  background-color: cadetblue;
+}
