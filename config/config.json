@@ -5,12 +5,12 @@
     "dialect": "postgres"
   },
   "test": {
-    "database": "makersSpace_test",
+    "database": "makersSpace",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "database": "makersSpace_production",
+    "database": "makersSpace",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
